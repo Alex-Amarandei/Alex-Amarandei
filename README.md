@@ -28,8 +28,6 @@
 <img align="left" alt="React" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg" />
 <img align="left" alt="Cargo" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cargo.svg" />
 <img align="left" alt="Jupyter" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jupyter.svg" />
-<img align="left" alt="Tailwind" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_tailwind.svg" />
-
 
 <img align="left" alt="Git" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" />
 <img align="left" alt="VSCode" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />
