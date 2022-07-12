@@ -12,6 +12,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Growing up, I had a lot of hobbies, ranging from origami to drawing and cooking.
 
+<br>
+
 ## Languages, Frameworks and Tools
 
 <img align="left" alt="Python" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" />
@@ -32,3 +34,12 @@
 <img align="left" alt="Git" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" />
 <img align="left" alt="VSCode" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />
 <img align="left" alt="Sketch" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_sketch.svg" />
+
+<br>
+<br> 
+
+## Some Stats
+
+<img height="20%" align="left" alt="Alex GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alex-Amarandei&theme=dark&show_icons=true">
+
+<img height="20%" align="right" alt="Alex Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Amarandei&theme=dark">
