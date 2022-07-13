@@ -40,6 +40,6 @@
 
 ## Some Stats
 
-<img height="150" align="left" alt="Alex GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alex-Amarandei&theme=dark&show_icons=true">
+<img height="170" align="left" alt="Alex GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alex-Amarandei&theme=dark&show_icons=true">
 
-<img height="150" align="right" alt="Alex Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Amarandei&theme=dark&layout=compact">
+<img height="170" align="right" alt="Alex Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Amarandei&theme=dark&layout=compact">
