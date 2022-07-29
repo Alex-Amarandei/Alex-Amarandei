@@ -12,27 +12,19 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Growing up, I had a lot of hobbies, ranging from origami to drawing and cooking.
 
-<br>
+<br />
 
-## Languages, Frameworks and Tools
+## Current Favorites
 
 <img align="left" alt="Python" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" />
 <img align="left" alt="Solidity" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_solidity.svg" />
 <img align="left" alt="Java" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_java.svg" />
 <img align="left" alt="C/C++" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp.svg" />
 <img align="left" alt="Javascript" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg" />
-<img align="left" alt="C#" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_csharp.svg" />
-<img align="left" alt="Rust" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_rust.svg" />
-<img align="left" alt="MySQL" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_mysql.svg" />
-<img align="left" alt="HTML" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_html.svg" />
-<img align="left" alt="CSS" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_css.svg" />
 
-<img align="left" alt="Tailwind" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_tailwind.svg" />
 <img align="left" alt="React" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg" />
-<img align="left" alt="Cargo" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cargo.svg" />
 <img align="left" alt="Jupyter" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jupyter.svg" />
 <img align="left" alt="Maven" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" />
-<img align="left" alt="NPM" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_npm.svg" />
 
 <img align="left" alt="Git" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" />
 <img align="left" alt="VSCode" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />
