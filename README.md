@@ -4,10 +4,9 @@
 
 ## My Current Whereabouts
 
-- 🔭 I’m working on a Complex Numbers Math Library in Solidity
-- 🌱 I’m learning about Data Science through [freecodecamp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-- 🤔 I’m looking for a blockchain job
-- 💬 Ask me about anything Python or Solidity related
+- 💻 I’m working as and SDE I at Amazon
+- 🤔 I’m always searching for ways to be more productive
+- 💬 Ask me about anything AWS, Python or Solidity related
 - 📫 How to reach me: <alex.m.amarandei@gmail.com>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Growing up, I had a lot of hobbies, ranging from origami to drawing and cooking.
