@@ -8,7 +8,6 @@
 - 🤔 I’m always searching for ways to be more productive
 - 💬 Ask me about anything AWS, Python or Solidity related
 - 📫 How to reach me: <alex.m.amarandei@gmail.com>
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Growing up, I had a lot of hobbies, ranging from origami to drawing and cooking.
 
 <br />
