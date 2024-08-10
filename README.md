@@ -19,10 +19,10 @@
 <img align="left" alt="Java" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_java.svg" />
 <img align="left" alt="C/C++" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp.svg" />
 <img align="left" alt="Javascript" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg" />
+<img align="left" alt="Rust" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_rust.svg" />
 
+<img align="left" alt="Next" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_next.svg" />
 <img align="left" alt="React" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg" />
-<img align="left" alt="Jupyter" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jupyter.svg" />
-<img align="left" alt="Maven" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" />
 
 <img align="left" alt="Git" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" />
 <img align="left" alt="VSCode" height="30px" width="30px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />
