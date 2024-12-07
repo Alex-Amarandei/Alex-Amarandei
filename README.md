@@ -4,11 +4,9 @@
 
 ## My Current Whereabouts
 
-- 💻 I’m working as an SDE I at Amazon
+- 💻 I’m working as an SDE II at Amazon
 - 🤔 I’m always searching for ways to be more productive
-- 💬 Ask me about anything AWS, Python or Solidity related
 - 📫 How to reach me: <alex.m.amarandei@gmail.com>
-- ⚡ Fun fact: Growing up, I had a lot of hobbies, ranging from origami to drawing and cooking.
 
 <br />
 
